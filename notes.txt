@@ -1,0 +1,3 @@
+Notes
+======
+What do I want to test in this component? What do I care about the most?
